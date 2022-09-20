@@ -17,8 +17,8 @@ namespace Users.Server.Models
             [Column(TypeName ="nvarchar(50)")]
             public string Profession{get; set;}= string.Empty;
 
-            [Column(TypeName ="nvarchar(100)")]
-            public  string imageName{get; set;}= string.Empty;
+           
+            public  string? imageName{get; set;}= string.Empty;
 
             [NotMapped]
             public IFormFile? imageFile {get; set;}

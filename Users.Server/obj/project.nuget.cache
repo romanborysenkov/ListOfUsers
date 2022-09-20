@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izyyBbetFi6s5NIm2Ic26qS/bryVKHzg5BKhbOYDddVFnpg76IfQ7z135y4i+aX+wTxh0HlU92fH+lKH/V1j0g==",
+  "dgSpecHash": "ZCGxrn07MLf3kUD3kH6JvFwmeSlBFNq6raRVXeNWNRbr/0G5TYJpsM7gQJrWqLeCxWrCj8PYWpc1m/gh4tzzvg==",
   "success": true,
-  "projectFilePath": "/Users/romsyaborysenko/Documents/folder . . ./My resume project/Users/Users.Server/Users.Server.csproj",
+  "projectFilePath": "/Users/romsyaborysenko/Documents/programming/REACT/Users.Original/Users.Server/Users.Server.csproj",
   "expectedPackageFiles": [
     "/Users/romsyaborysenko/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/romsyaborysenko/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
